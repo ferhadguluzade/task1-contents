@@ -1,0 +1,24 @@
+*{
+  font-family: "Sniglet", system-ui;  
+}
+h4{
+    font-weight: 400;
+}
+ul,ol{
+    list-style-type: none;
+}
+.alt{
+    list-style-image: url('icons/arrow.png');
+}
+.winter{
+    list-style-image: url('icons/winter.png');
+}
+.spring{
+    list-style-image: url('icons/spring.png') ;
+}
+.summer{
+    list-style-image: url('icons/summer.png') ;
+}
+.autumn{
+    list-style-image: url('icons/autumn.png') ;
+}

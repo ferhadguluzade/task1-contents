@@ -1,0 +1,31 @@
+*{
+ font-family: Montserrat;
+}
+
+li p:first-child{
+    text-transform: uppercase;
+    padding: 10px 15px;
+    margin-bottom: 0px;
+    background-color: #0e494f;
+    
+}
+
+ul li p{
+    
+    font-size: 18px;
+    color: white;
+}
+
+.content{
+    background-color: #246166;
+    margin-top: 0px;
+    padding: 20px 25px;
+}
+
+ul{
+    margin: 50px 100px 100px 100px;
+    padding-inline-start: 0px;
+    list-style: none;
+}
+
+
